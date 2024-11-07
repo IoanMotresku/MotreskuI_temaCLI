@@ -1,0 +1,14 @@
+C:\Programare\OpenGL\Teme\Tema_3\Tema_5\obj\Debug\Tema_5.csproj.AssemblyReference.cache
+C:\Programare\OpenGL\Teme\Tema_3\Tema_5\obj\Debug\Tema_5.csproj.CoreCompileInputs.cache
+C:\Programare\OpenGL\Teme\Tema_3\Tema_5\bin\Debug\Tema_5.exe.config
+C:\Programare\OpenGL\Teme\Tema_3\Tema_5\bin\Debug\Tema_5.exe
+C:\Programare\OpenGL\Teme\Tema_3\Tema_5\bin\Debug\Tema_5.pdb
+C:\Programare\OpenGL\Teme\Tema_3\Tema_5\bin\Debug\OpenTK.dll
+C:\Programare\OpenGL\Teme\Tema_3\Tema_5\bin\Debug\OpenTK.GLControl.dll
+C:\Programare\OpenGL\Teme\Tema_3\Tema_5\bin\Debug\OpenTK.pdb
+C:\Programare\OpenGL\Teme\Tema_3\Tema_5\bin\Debug\OpenTK.xml
+C:\Programare\OpenGL\Teme\Tema_3\Tema_5\bin\Debug\OpenTK.GLControl.pdb
+C:\Programare\OpenGL\Teme\Tema_3\Tema_5\bin\Debug\OpenTK.GLControl.xml
+C:\Programare\OpenGL\Teme\Tema_3\Tema_5\obj\Debug\Tema_5.csproj.Up2Date
+C:\Programare\OpenGL\Teme\Tema_3\Tema_5\obj\Debug\Tema_5.exe
+C:\Programare\OpenGL\Teme\Tema_3\Tema_5\obj\Debug\Tema_5.pdb

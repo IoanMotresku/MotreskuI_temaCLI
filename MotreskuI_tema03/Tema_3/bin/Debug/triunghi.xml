@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Triangle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <vertex1>
+    <X>-15</X>
+    <Y>-15</Y>
+    <Z>0</Z>
+  </vertex1>
+  <vertex2>
+    <X>15</X>
+    <Y>15</Y>
+    <Z>0</Z>
+  </vertex2>
+  <vertex3>
+    <X>0</X>
+    <Y>15</Y>
+    <Z>0</Z>
+  </vertex3>
+</Triangle>

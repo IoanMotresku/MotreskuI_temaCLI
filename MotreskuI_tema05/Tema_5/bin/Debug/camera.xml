@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<Camera xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <eyeX>30</eyeX>
+  <eyeY>30</eyeY>
+  <eyeZ>30</eyeZ>
+  <targetX>0</targetX>
+  <targetY>1</targetY>
+  <targetZ>0</targetZ>
+  <upX>0</upX>
+  <upY>1</upY>
+  <upZ>0</upZ>
+</Camera>

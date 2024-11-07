@@ -1,0 +1,16 @@
+C:\Programare\OpenGL\Teme\Tema_3\Tema_3\bin\Debug\Tema_3.exe.config
+C:\Programare\OpenGL\Teme\Tema_3\Tema_3\bin\Debug\Tema_3.exe
+C:\Programare\OpenGL\Teme\Tema_3\Tema_3\bin\Debug\Tema_3.pdb
+C:\Programare\OpenGL\Teme\Tema_3\Tema_3\bin\Debug\OpenTK.dll
+C:\Programare\OpenGL\Teme\Tema_3\Tema_3\bin\Debug\OpenTK.GLControl.dll
+C:\Programare\OpenGL\Teme\Tema_3\Tema_3\bin\Debug\OpenTK.pdb
+C:\Programare\OpenGL\Teme\Tema_3\Tema_3\bin\Debug\OpenTK.xml
+C:\Programare\OpenGL\Teme\Tema_3\Tema_3\bin\Debug\OpenTK.GLControl.pdb
+C:\Programare\OpenGL\Teme\Tema_3\Tema_3\bin\Debug\OpenTK.GLControl.xml
+C:\Programare\OpenGL\Teme\Tema_3\Tema_3\obj\Debug\Tema_3.csproj.AssemblyReference.cache
+C:\Programare\OpenGL\Teme\Tema_3\Tema_3\obj\Debug\Tema_3.csproj.CoreCompileInputs.cache
+C:\Programare\OpenGL\Teme\Tema_3\Tema_3\obj\Debug\Tema_3.csproj.Up2Date
+C:\Programare\OpenGL\Teme\Tema_3\Tema_3\obj\Debug\Tema_3.exe
+C:\Programare\OpenGL\Teme\Tema_3\Tema_3\obj\Debug\Tema_3.pdb
+C:\Programare\OpenGL\Teme\Tema_3\Tema_3\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Programare\OpenGL\Teme\Tema_3\Tema_3\bin\Debug\System.Configuration.ConfigurationManager.xml
