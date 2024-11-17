@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Perspective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <fovy>0.7853982</fovy>
+  <aspect>1.33333337</aspect>
+  <zNear>1</zNear>
+  <zFar>1024</zFar>
+</Perspective>

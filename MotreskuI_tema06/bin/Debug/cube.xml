@@ -1,0 +1,138 @@
+﻿<?xml version="1.0"?>
+<Cube xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<speed>100</speed>
+	<vertices>
+		<!-- Front face -->
+		<Vector3>
+			<X>-10</X>
+			<Y>20</Y>
+			<Z>10</Z>
+		</Vector3>
+		<Vector3>
+			<X>10</X>
+			<Y>20</Y>
+			<Z>10</Z>
+		</Vector3>
+		<Vector3>
+			<X>-10</X>
+			<Y>0</Y>
+			<Z>10</Z>
+		</Vector3>
+		<Vector3>
+			<X>10</X>
+			<Y>0</Y>
+			<Z>10</Z>
+		</Vector3>
+
+		<!-- Back face -->
+		<Vector3>
+			<X>10</X>
+			<Y>20</Y>
+			<Z>-10</Z>
+		</Vector3>
+		<Vector3>
+			<X>-10</X>
+			<Y>20</Y>
+			<Z>-10</Z>
+		</Vector3>
+		<Vector3>
+			<X>10</X>
+			<Y>0</Y>
+			<Z>-10</Z>
+		</Vector3>
+		<Vector3>
+			<X>-10</X>
+			<Y>0</Y>
+			<Z>-10</Z>
+		</Vector3>
+
+		<!-- Left face -->
+		<Vector3>
+			<X>-10</X>
+			<Y>20</Y>
+			<Z>-10</Z>
+		</Vector3>
+		<Vector3>
+			<X>-10</X>
+			<Y>20</Y>
+			<Z>10</Z>
+		</Vector3>
+		<Vector3>
+			<X>-10</X>
+			<Y>0</Y>
+			<Z>-10</Z>
+		</Vector3>
+		<Vector3>
+			<X>-10</X>
+			<Y>0</Y>
+			<Z>10</Z>
+		</Vector3>
+
+		<!-- Right face -->
+		<Vector3>
+			<X>10</X>
+			<Y>20</Y>
+			<Z>10</Z>
+		</Vector3>
+		<Vector3>
+			<X>10</X>
+			<Y>20</Y>
+			<Z>-10</Z>
+		</Vector3>
+		<Vector3>
+			<X>10</X>
+			<Y>0</Y>
+			<Z>10</Z>
+		</Vector3>
+		<Vector3>
+			<X>10</X>
+			<Y>0</Y>
+			<Z>-10</Z>
+		</Vector3>
+
+		<!-- Top face -->
+		<Vector3>
+			<X>-10</X>
+			<Y>20</Y>
+			<Z>-10</Z>
+		</Vector3>
+		<Vector3>
+			<X>10</X>
+			<Y>20</Y>
+			<Z>-10</Z>
+		</Vector3>
+		<Vector3>
+			<X>-10</X>
+			<Y>20</Y>
+			<Z>10</Z>
+		</Vector3>
+		<Vector3>
+			<X>10</X>
+			<Y>20</Y>
+			<Z>10</Z>
+		</Vector3>
+
+		<!-- Bottom face -->
+		<Vector3>
+			<X>-10</X>
+			<Y>0</Y>
+			<Z>10</Z>
+		</Vector3>
+		<Vector3>
+			<X>10</X>
+			<Y>0</Y>
+			<Z>10</Z>
+		</Vector3>
+		<Vector3>
+			<X>-10</X>
+			<Y>0</Y>
+			<Z>-10</Z>
+		</Vector3>
+		<Vector3>
+			<X>10</X>
+			<Y>0</Y>
+			<Z>-10</Z>
+		</Vector3>
+	</vertices>
+	
+</Cube>
